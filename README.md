@@ -1,8 +1,11 @@
-# React + Vite
+# React Router Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## This website is built using react + vite and this is a dummy project for practice purposes.
 
-Currently, two official plugins are available:
+### View the site: https://react-router-dummy-project.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technology
+  1. React
+  2. Tailwindcss
+  3. Netlify
+  4. Fontawesome
